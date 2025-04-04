@@ -1,0 +1,2 @@
+# compu1
+tareadecomputación
